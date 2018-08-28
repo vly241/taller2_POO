@@ -1,0 +1,24 @@
+package taller2_4;
+import java.util.Scanner;
+class taller2_4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+          
+		Scanner sc = new Scanner(System.in);
+		int x;
+		
+		System.out.println("programa para determinar conversiones  ");
+		System.out.println("ingrese el numero siguiento lo siguiente: ");
+		System.out.println("escoja una medida: ");
+		System.out.println("1.Bit");
+		System.out.println("2.Bytes");
+		System.out.println("3.KiloBytes");
+		System.out.println("4.MegaBytes");
+		System.out.println("5.GigaBytes");
+		System.out.println("6.TeraBytes");
+		
+		
+	}
+
+}

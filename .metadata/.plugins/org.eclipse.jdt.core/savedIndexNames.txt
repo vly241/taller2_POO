@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\Users\valer\Desktop\universidad\PROG. ORIENTADA A OBJETOS\taller2\.metadata\.plugins\org.eclipse.jdt.core
+1762705670.index
+4294109812.index
+4151596197.index
+3996102163.index
+2155045939.index
+4264591427.index
+1731842553.index
+2388292812.index
+301763416.index
+427439497.index
+504885648.index
+1727773646.index

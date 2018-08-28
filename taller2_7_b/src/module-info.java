@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author valer
+ *
+ */
+module taller2_7_b {
+}
